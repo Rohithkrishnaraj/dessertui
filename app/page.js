@@ -109,7 +109,7 @@ export default function Home() {
           </div>
           {!totalProductCount ? (
             <div>
-              <h1>Add Your products</h1>
+              <h1>Add Your product</h1>
             </div>
           ) : (
             <div>
